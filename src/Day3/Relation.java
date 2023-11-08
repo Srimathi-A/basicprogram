@@ -1,0 +1,21 @@
+package Day3;
+
+public class Relation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     int a,b;
+     a=10;
+     b=20;
+     System.out.println("Relation Operator");
+     System.out.println("--------  --------");
+     System.out.println("a==b="+(a==b)); 
+     System.out.println("a!=b="+(a!=b));
+     System.out.println("a>=b="+(a>=b));
+     System.out.println("b<=a="+(b<=a));
+     System.out.println("a<=b="+(a<=b));
+     System.out.println("b>=a="+(b>=a));
+     
+	}
+
+}
